@@ -1,18 +1,18 @@
 # Titan DAC
 ## Goal
-To raise funds for future Metis community events and charitable giving consistent with the UN sustainable goals
+To fund future Metis community events and charitable giving consistent with the UN sustainable goals.
 
 ## Membership
 The DAC is open to anyone to join.
 
 ## Funding
-The DAC will initially be funded by proceeds from the sales of the initial Titan DAC NFT's as well as an additional contribution from the Metis team. We plan on minting more NFT'S in the future with a smart contract to capture a portion of each sale. In the future funding may also be generated from staking and yield farming activities which may include community mining, validator mining, liquidity pool staking, or others.
+The DAC will initially be funded by proceeds from the sales of the initial Titan DAC NFT's as well as an additional contribution from the Metislab Foundation. We plan on minting more NFT'S in the future with a smart contract to capture a portion of each sale. In the future funding may also be generated from staking and yield farming activities which may include community mining, validator mining, liquidity pool staking, or others. All funding in the Titan DAC will be used to support the goal of the DAC. Funds will not be distributed to members of the DAC.
 
 ## Governance
 Titan DAC seeks to be a truly decentralized autonomous company with no central leadership. Decisions on how the DAC operates will be left to voters in the DAC. While anyone can join the DAC and participate only members that posses Titan DAC NFT's will be able to vote. Members will receive 1 vote per Titan DAC NFT the possess.
 
 ## Titan DAC NFT
-The initial Titan DAC NFT's will be limited collectors items in partnership with the Metis development team to commemorate the launch of Andromeda. The Andromeda Edition NFT's will have additional benefits and privileges over NFT's we may mint in the future.
+The initial Titan DAC NFT's will be limited collectors items in partnership with the Metislab Foundation to commemorate the launch of Andromeda. The Andromeda Edition NFT's will have additional benefits and privileges over NFT's we may mint in the future.
 
 ## Titan DAC NFT Andromeda Edition
 ### Benefits/Value
