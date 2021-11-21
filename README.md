@@ -17,7 +17,7 @@ The initial Titan DAC NFT's will be limited collectors items in partnership with
 ## Titan DAC NFT Andromeda Edition
 ### Benefits/Value
 1. Limited supply. Only 16 will be created
-1. Mining benefits. At the start of mining any wallet address with a Titan DAC Andromeda Edition NFT will receive a boost in mining power.
+1. Mining benefits. At the start of mining any wallet address with a Titan DAC Andromeda Edition NFT will receive a boost in mining power. Note: once mining starts, the mining power boost will not transfer with the NFT if it's sold or transfered 
 1. Special rewards at community parties/events (TBD)
 1. Voting power. Initially owners will be invited to the private Titan DAC group chat where they can influence early decisions in the DAC. In the future the NFT will give 1 vote in DAC governance decisions.
 
