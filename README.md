@@ -16,13 +16,13 @@ The initial Titan DAC NFT's will be limited collectors items in partnership with
 
 ## Titan DAC NFT Andromeda Edition
 ### Benefits/Value
-1. Limited supply. Only 16 will be created
+1. Limited supply. Only 15 will be created
 1. Mining benefits. At the start of mining any wallet address with a Titan DAC Andromeda Edition NFT will receive a boost in mining power. Note: once mining starts, the mining power boost will not transfer with the NFT if it's sold or transfered 
 1. Special rewards at community parties/events (TBD)
 1. Voting power. Initially owners will be invited to the private Titan DAC group chat where they can influence early decisions in the DAC. In the future the NFT will give 1 vote in DAC governance decisions.
 
 ### Minting
-All 16 NFT's will be minted using metacraft on the Andromeda L2. Minting will take place on Sunday Nov. 21. We do not have a smart contract to handle minting/sale of these yet therefore we will have to mint/sell them from a private wallet. If we can enable a multisig wallet on Andromeda we will transfer the funds there. Otherwise, if it's possible to deposit the funds directly into the DAC wallet we will deposit them there. Otherwise we will deposit them into a polis address.
+All 15 NFT's will be minted using metacraft on the Andromeda L2. Minting will take place on Sunday Nov. 21. We do not have a smart contract to handle minting/sale of these yet therefore we will have to mint/sell them from a private wallet. If we can enable a multisig wallet on Andromeda we will transfer the funds there. Otherwise, if it's possible to deposit the funds directly into the DAC wallet we will deposit them there. Otherwise we will deposit them into a polis address.
 
 ### Sale Proceeds
 The purpose of these NFT's are to fund the goal of this DAC, not for enriching its founders. We will use 5% of the sales to reward the designer. 15% may be used to reward members of the DAC based on their contributions. The rest will go to the DAC to fund its goals.
@@ -33,4 +33,4 @@ The purpose of these NFT's are to fund the goal of this DAC, not for enriching i
 80-95% Titan DAC
 ```
 ### Andromeda Edition NFT Sale
-We plan to auction all 15 NFT's in batches starting on Monday Nov. 22 and ending on Thursday Nov. 25, with 4 on the first three days and 3 on Thursday. The auction will take place on Metacraft.
+We plan to auction all 15 NFT's in batches starting on Monday Nov. 22 and ending on Thursday Nov. 25, with 3 on the first three days and 4 on Thursday. The auction will take place on Metacraft.
