@@ -33,4 +33,4 @@ The purpose of these NFT's are to fund the goal of this DAC, not for enriching i
 80-95% Titan DAC
 ```
 ### Andromeda Edition NFT Sale
-We plan to auction all 15 NFT's in batches starting on Monday Nov. 22 and ending on Thursday Nov. 25, with 3 on the first three days and 4 on Thursday. The auction will take place on Metacraft.
+We plan to auction all 15 NFT's in batches starting on Monday Nov. 22 and ending on Thursday Nov. 25, with 3 on the first two days and 4 on Wednesday, and 5 on Thursday. The auction will take place on Metacraft.
