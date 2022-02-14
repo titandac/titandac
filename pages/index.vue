@@ -1,40 +1,43 @@
 <template>
   <PageWrapper class="flex justify-center items-center">
-    <div class="background-overlay">
-      <div
-        class="absolute top-0 left-0 transform translate-x-64 translate-y-4 h-14 w-14 rounded-full bg-gray-900 dark:bg-white"
-      ></div>
-      <div
-        class="absolute hidden md:block top-0 left-0 transform translate-x-18 translate-y-20 h-28 w-28 rounded-full bg-blue-600 linear-wipe"
-      ></div>
-      <div
-        class="absolute hidden md:block bottom-0 right-0 transform -translate-x-4 -translate-y-40 h-16 w-16 rounded bg-purple-600 linear-wipe"
-      ></div>
-      <div class="absolute bottom-0 right-0 triangle-shape"></div>
-    </div>
     <div class="flex flex-col z-10">
-      <h1 class="text-center">
+      <h2 class="text-center">
         <span
           v-for="(item, i) in $t('pages.index.title').split(',')"
           :key="i"
-          class="linear-wipe-text drop-shadow-xl text-5xl xl:text-8xl 2xl:text-9xl block font-bold uppercase"
+          class="linear-wipe-text drop-shadow-xl text-5xl xl:text-7xl 2xl:text-8xl block font-bold uppercase"
         >
           {{ item }}
         </span>
-      </h1>
-      <div class="flex space-x-4 justify-center mt-10">
-        <Button
-          size="lg"
-          text="Nuxt 3"
-          class="font-extrabold"
-          href="https://v3.nuxtjs.org"
+      </h2>
+      <div class="flex flex-col items-center mt-6">
+        <img
+          src="assets/images/HEADER.png"
+          class="inline-block"
+          alt="NFTChicks"
+          width="450"
+          height="450"
         />
+      </div>
+      <div class="flex flex-col items-center mt-4">
+        <p class="text-center">
+          <span
+            class="linear-wipe-text drop-shadow-xl text-lg xl:text-2xl 2xl:text-3xl block font-bold uppercase"
+          >
+            A limited NFT collection benefitting
+            <a class="hover:underline" href="https://cryptochicks.ca/"
+              >CryptoChicks</a
+            >
+            <p>Celebrating the power & beauty of the women in crypto</p>
+          </span>
+        </p>
+      </div>
+      <div class="flex space-x-4 justify-center mt-4">
         <Button
           size="lg"
-          text="Github"
-          type="secondary"
+          text="NFT Chicks Auction"
           class="font-extrabold"
-          href="https://github.com/viandwi24/nuxt3-awesome-starter"
+          href="https://tofunft.com/discover/items?contracts=12894&network=1088"
         />
       </div>
     </div>

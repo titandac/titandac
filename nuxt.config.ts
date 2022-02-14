@@ -13,13 +13,13 @@ declare module '@nuxt/schema' {
 export default defineNuxtConfig({
   // meta
   meta: {
-    title: 'Nuxt 3 Awesome Starter',
+    title: 'TitansDAC',
     meta: [
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
         hid: 'description',
         name: 'description',
-        content: 'Nuxt 3 Awesome Starter',
+        content: 'TitansDAC',
       },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
@@ -70,7 +70,7 @@ export default defineNuxtConfig({
     vueI18n: {
       locale: 'en',
       fallbackLocale: 'en',
-      availableLocales: ['en', 'id', 'ja'],
+      availableLocales: ['en'],
     },
   },
 

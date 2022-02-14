@@ -6,7 +6,8 @@ components:
     change_theme: change theme
 pages:
   index:
-    title: nuxt 3,awesome,starter
+    title: TitansDAC, presents
+    description: A limited NFT collection benefitting CryptoChics, celebrating the power & beauty of the women in crypto
   blank:
     nav: blank
     title: blank page
@@ -22,7 +23,7 @@ pages:
     full_name: fullName
   about:
     nav: about
-    title: about
+    title: foo bar
   dashboard:
     nav: dashboard
     title: dashboard

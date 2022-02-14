@@ -10,7 +10,7 @@
         <Anchor
           class="underline font-bold"
           :text="$t('others.learn_more')"
-          href="https://github.com/viandwi24/nuxt3-awesome-starter"
+          href="https://github.com/titandac"
         />
       </div>
     </template>
@@ -43,11 +43,9 @@
         <div
           class="flex space-x-4 border-l ml-6 pl-6 border-gray-900/10 dark:border-gray-50/[0.2]"
         >
-          <LanguageSwitcher />
-          <ThemeToggle />
           <Anchor
             class="hover:no-underline hover:text-slate-900 hover:dark:text-white text-lg flex self-center items-center"
-            href="https://github.com/viandwi24/nuxt3-awesome-starter"
+            href="https://github.com/titandac"
             title="Github"
           >
             <IconMdi:github-face />
@@ -88,23 +86,11 @@
               </li>
             </ul>
           </nav>
-          <div class="mt-6 text-sm font-bold capitalize">
-            {{ $t('components.theme_switcher.change_theme') }}
-          </div>
-          <div class="mt-2">
-            <ThemeToggle type="select-box" />
-          </div>
-          <div class="mt-6 text-sm font-bold capitalize">
-            {{ $t('components.language_switcher.change_language') }}
-          </div>
-          <div class="mt-2">
-            <LanguageSwitcher type="select-box" />
-          </div>
         </ActionSheetBody>
         <Button
           type="secondary"
           title="Github"
-          href="https://github.com/viandwi24/nuxt3-awesome-starter"
+          href="https://github.com/titandac"
         >
           <IconMdi:github-face />
           <span class="ml-1">Github</span>
@@ -129,16 +115,9 @@ export interface IMenuItem {
   route?: any
 }
 
-const { t } = useLang()
+// const { t } = useLang()
 const app = useState<IApp>('app')
 const menus = computed((): IMenuItem[] => [
-  { type: 'link', text: t('pages.blank.nav'), route: { name: 'blank' } },
-  { type: 'link', text: t('pages.test.nav'), route: { name: 'test' } },
-  { type: 'link', text: t('pages.about.nav'), route: { name: 'about' } },
-  {
-    type: 'button',
-    text: t('pages.dashboard.nav'),
-    route: { name: 'dashboard' },
-  },
+  // { type: 'link', text: t('pages.about.nav'), route: { name: 'about' } },
 ])
 </script>

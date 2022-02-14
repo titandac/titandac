@@ -52,6 +52,7 @@
     ]
   },
   "dependencies": {
-    "postcss-loader": "^6.2.1"
+    "postcss-loader": "^6.2.1",
+    "vue3-side-panel": "^1.0.1"
   }
 }

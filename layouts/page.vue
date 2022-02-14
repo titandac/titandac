@@ -13,9 +13,6 @@
           <slot />
         </div>
       </div>
-      <slot name="footer">
-        <PageFooter />
-      </slot>
     </div>
     <slot name="app-after" />
     <div id="app-after"></div>
