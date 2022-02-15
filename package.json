@@ -46,11 +46,6 @@
     "unplugin-icons": "^0.13.0",
     "unplugin-vue-components": "^0.17.11"
   },
-  "lint-staged": {
-    "**/*.{js,ts,vue,html,css,scss}": [
-      "yarn lintfix"
-    ]
-  },
   "dependencies": {
     "postcss-loader": "^6.2.1",
     "vue3-side-panel": "^1.0.1"

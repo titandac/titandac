@@ -34,10 +34,7 @@
             >
               <span class="sr-only">home</span>
               <span class="flex items-center">
-                <IconSimpleIcons:nuxtdotjs
-                  class="inline-block mr-2 text-lg text-green-600"
-                />
-                {{ app.name }}
+                <img src="assets/svg/logo.svg" class="mt-5 big-logo" />
               </span>
             </NuxtLink>
           </slot>
@@ -92,9 +89,6 @@
 </template>
 
 <script lang="ts" setup>
-import { IApp } from '~/utils/app'
-
-const app = useState<IApp>('app')
 const navbar = ref(null)
 const showDrawer = useState<boolean>('navbar.showDrawer', () => false)
 const showOptions = useState<boolean>('navbar.showOptions', () => false)
@@ -125,6 +119,10 @@ const toggleOptions = (show?: boolean) => {
 .slide-fade-from-up-leave-to {
   transform: translateY(-20px);
   opacity: 0;
+}
+
+.big-logo {
+  height: 50px;
 }
 
 a.router-link-active {
